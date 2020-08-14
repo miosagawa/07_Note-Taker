@@ -1,9 +1,9 @@
 Folder update content:
 Update date：Aug 12, 2020
 
-  * Github: https://github.com/miosagawa/07_Express-Homework.git
+  * Github: https://github.com/miosagawa/07_Note-Taker.git
 
-  * URL: https://miosagawa.github.io/07_Express-Homework/Develop/public/index.html
+  * URL: https://miosagawa.github.io/07_Note-Taker/Develop/public/index.html
 
 
 1.Note Taker（Created according to the following conditions）
