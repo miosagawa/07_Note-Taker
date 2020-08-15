@@ -4,6 +4,7 @@ Update date：Aug 12, 2020
   * Github: https://github.com/miosagawa/07_Note-Taker.git
 
   * URL: https://miosagawa.github.io/07_Note-Taker/Develop/public/index.html
+  * URL: https://app-sagawa2.herokuapp.com/
 
 
 1.Note Taker（Created according to the following conditions）
